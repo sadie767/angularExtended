@@ -1,0 +1,25 @@
+{ "albums": [{
+    "title": "Kimono My House",
+    "artist": "Sparks",
+    "description": "Released May 1974, third album, Label:Island",
+    "id": "1"
+    }, {
+    "title": "Speak and Spell",
+    "artist": "Depeche Mode",
+    "description": "Released October 1981, first album, Labels:Mute and Sire",
+    "id": "2"
+      }, {
+    "title": "Black Vinyl Shoes",
+    "artist": "The Shoes",
+    "description": "Released 1977, Labels:Black Vinyl, PVC, Sire",
+    "id": "3"
+  }, {
+    "title": "Tomb for Two", "artist": "Lebanon Hanover",
+    "description": "Released 2013, Labels:Mecanica and Dead Scarlet Records", "id": "4"
+    }, {
+  "title": "Je Suis Pasée",
+  "artist": "Hard Corps",
+  "description": "Released 1985, Label:Polydor",
+  "id": "4"
+    }]
+}
