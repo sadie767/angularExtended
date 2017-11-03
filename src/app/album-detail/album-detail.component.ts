@@ -8,8 +8,10 @@ import { Album } from '../album.model';
   templateUrl: './album-detail.component.html',
   styleUrls: ['./album-detail.component.css']
 })
+
 export class AlbumDetailComponent implements OnInit {
- albumId: number = null;
+  albumId: number = null;
+
   constructor(private route: ActivatedRoute, private location: Location) {}
 
   ngOnInit() {
