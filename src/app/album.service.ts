@@ -1,6 +1,6 @@
 import { Injectable } from '@angular/core';
 import { Album } from './album.model';
-import { AngularFireDatabase, FirebaseListObservable } from 'angularfire2/database-deprecated';
+import { AngularFireDatabase, FirebaseListObservable } from 'angularfire2/database';
 
 @Injectable()
 export class AlbumService {
