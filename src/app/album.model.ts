@@ -1,3 +1,3 @@
 export class Album {
-  constructor (public artist: string, public title: string, public description: string) { }
+  constructor (public title: string, public artist: string, public description: string) { }
 }
